@@ -9,5 +9,5 @@ Client usage:
 - ./client <server IP>:<server port> PUT [remote file name] [local file name]
 - ./client <server IP>:<server port> DELETE [remote file name]
 - ./client <server IP>:<server port> LIST [remote file name] [local file name]
-## Source
+## Notes
 Completed as the final assigment for System Programming.
