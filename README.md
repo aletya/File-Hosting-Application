@@ -4,6 +4,7 @@ Alex Yang <br>
 A client-server application designed to manage public file hosting across networks using TCP.
 ## Usage
 Server usage: ./server <port>
+
 Client usage: 
 - ./client <server IP>:<server port> GET [remote file name] [local file name]
 - ./client <server IP>:<server port> PUT [remote file name] [local file name]
