@@ -10,4 +10,4 @@ Client usage:
 - ./client <server IP>:<server port> DELETE [remote file name]
 - ./client <server IP>:<server port> LIST [remote file name] [local file name]
 ## Notes
-Completed as the final assigment for System Programming.
+Completed as the final project for System Programming.
